@@ -1,0 +1,48 @@
+<builds>
+
+   <build>
+    <name>[COLORdeepskyblue][B]Balkan Dzo Kodi 21.x Omega Builds[/B][/COLOR]</name>
+	<version>9.0</version>
+	<url>https://</url>
+	<icon>http://</icon>
+	<fanart>http://</fanart>
+	<description>[COLORdeepskyblue][B]Balkan Dzo Kodi 21.x Omega v1 Builds[/B][/COLOR]</description>
+  </build>
+  
+  <build>
+    <name>Balkan Dzo Build Server 1</name>
+	<version>9.0</version>
+	<url>https://github.com/BalkanDzo/balkandzo.github.io/raw/refs/heads/main/zips/Build9.0.zip</url>
+	<icon>https://balkandzo.github.io/img/balkandzobuild.jpg</icon>
+	<fanart>https://</fanart>
+	<description>Balkan Dzo Build 9.0 Version</description>
+  </build>
+  
+  <build>
+    <name>Gilespii Server 2</name>
+	<version>9.0</version>
+	<url>https://archive.org/download/build-9.0_202601/Build9.0.zip</url>
+	<icon>https://balkandzo.github.io/img/balkandzobuild.jpg</icon>
+	<fanart>https://</fanart>
+	<description>Balkan Dzo Build 9.0 Version</description>
+  </build>
+  
+  <build>
+    <name>[COLORdeepskyblue][B]Balkan Dzo Kodi 21.x Omega Builds v2 TEST[/B][/COLOR]</name>
+	<version>8.1</version>
+	<url>https://</url>
+	<icon>http://</icon>
+	<fanart>http://</fanart>
+	<description>[COLORdeepskyblue][B]Balkan Dzo Kodi 21.x Omega v2 Builds TEST[/B][/COLOR]</description>
+  </build>
+  
+  <build>
+    <name>Balkan Dzo Build v2 Server 1 TEST</name>
+	<version>8.1</version>
+	<url>https://github.com/BalkanDzo/balkandzo.github.io/raw/refs/heads/main/zips/Build8.1.zip</url>
+	<icon>https://balkandzo.github.io/img/balkandzobuild.jpg</icon>
+	<fanart>https://</fanart>
+	<description>Balkan Dzo Build 8.1 Version</description>
+  </build>
+  
+</builds>
